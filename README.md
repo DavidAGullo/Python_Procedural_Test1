@@ -1,2 +1,9 @@
-# Python_Procedural_Test1
-I test out a Procedural Generation type
+# Python Procedural: Test 1
+## Created By: David Gullo
+
+Ultimately the end goal is procedural Generation similar to Wave Function Collapse
+
+Multiple Modes
+- Not Strict = 0
+- Strict = 1
+- Very Strict = 2
